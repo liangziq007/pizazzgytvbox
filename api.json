@@ -2,7 +2,8 @@
 "wallpaper":"https://api.likepoems.com/img/bing",
 "sites":
 	[{"key":"豆瓣","name":"二〇二四","type":3,"api":"csp_Douban","searchable":0},
-	{"key":"云盘登录","name":"云盘登录","type":3,"api":"csp_AliYunPan","searchable":0,"quickSearch":0,"filterable":0,"changeable":0,"ext":"http://127.0.0.1:9978/file/TVBox/token.txt"},
+	{"key":"本地","name":"🐲本地｜视频","type":3,"api":"csp_LocalFile"},
+        {"key":"云盘登录","name":"云盘登录","type":3,"api":"csp_AliYunPan","searchable":0,"quickSearch":0,"filterable":0,"changeable":0,"ext":"http://127.0.0.1:9978/file/TVBox/token.txt"},
 	{"key":"配置中心","name":"云盘配置","type":3,"api":"csp_Config","searchable":0,"changeable":0,"style":{"type":"rect","ratio":1.597},"jar":"https://jihulab.com/Pizazz/tvbox/-/raw/main/danmu.jar;md5;c8eda914bc2c5fbde8110c576d184e5a"},
 	{"key":"南瓜","name":"南瓜","type":3,"api":"csp_NanGua","searchable":1,"quickSearch":1,"filterable":1,"ext":""},
 	{"key":"天天","name":"天天","type":3,"api":"csp_TTian","playerType":1,"ext":"http://op.ysdqjs.cn"},
